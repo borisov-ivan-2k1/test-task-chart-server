@@ -1,0 +1,9 @@
+{
+  "name": "test-task-chart-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server -p 3003 --watch server.json"
+  }
+}
